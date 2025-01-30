@@ -24,5 +24,3 @@ https://github.com/RudranshKaran/Password-Generator-and-Strength-Indicator/asset
 
 ## Developed By
 - [Rudransh Karan](https://github.com/RudranshKaran)
-- [Sreekar](https://github.com/Spsreekar21)
-- [Sreemanth](https://github.com/Spsreemanth)
